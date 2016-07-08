@@ -30,7 +30,7 @@ def head(input_list):
 
     """
 
-    
+
     return input_list[0]
 
 
@@ -45,7 +45,7 @@ def tail(input_list):
 
     """
 
-    return []
+    return input_list[1:]
 
 
 def last(input_list):
